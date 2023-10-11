@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
         "Com paciência infinita, vocês transformam desafios em oportunidades de aprendizado e capacitam os jovens a serem cidadãos responsáveis e pensadores críticos. " +
         "Neste Dia dos Professores, quero expressar minha mais profunda gratidão por tudo o que vocês fazem. " +
         "Vocês são faróis de luz na jornada educacional de todos nós, iluminando o caminho com sabedoria e compreensão. " +
-        "Obrigado por inspirarem, orientarem e ajudarem a construir um futuro melhor para todos. " +
-        "Feliz Dia dos Professores!";
+        "Obrigado por inspirarem, orientarem e ajudarem a construir um futuro melhor para todos."+ +
+        "Na co"
     });
 });
 
